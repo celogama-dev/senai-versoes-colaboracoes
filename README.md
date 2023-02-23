@@ -2,4 +2,4 @@
 Repositorio inicial
 Readme de exemplo
 
-lembrei co comando: git commit
+lembrei do comando: git commit
